@@ -20,8 +20,8 @@ Our approach is validated by successfully rediscovering the Quantum Fourier Tran
 
 ### Requirements
 
-- Python >= 3.11  
-- hierarqcal, pennylane, torch, dill, pathos
+- pennylane, torch, dill, pathos
+- heirarqcal - please used this forked version installed locally: https://github.com/AmyRouillard/hierarqcal
 
 ### Installation
 
